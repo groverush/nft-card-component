@@ -11,7 +11,11 @@ const Footer = () => {
       </a>
       . <br className="sm:hidden" />
       Coded by{" "}
-      <a href="https://github.com/groverush" className="text-secondary/80">
+      <a
+        href="https://github.com/groverush"
+        className="text-secondary/80"
+        target="_blank"
+      >
         Julian Monroy
       </a>
       .
